@@ -1,0 +1,147 @@
+html, body {
+ height: 100%;
+ width: 100%;
+ background-color: #FBEAEB;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+  color: #2F3C7E;
+  font-size: 250%;
+  text-shadow:
+  0 0 7px #d495fe,
+  0 0 10px #d495fe,
+  0 0 21px #d495fe,
+  0 0 42px #d495fe,
+  0 0 82px #d495fe,
+  0 0 92px #d495fe,
+  0 0 102px #d495fe,
+  0 0 151px #d495fe;
+}
+
+.trendingclips {
+  position: relative;
+  background-color: #FBEAEB;
+  color: #2F3C7E;
+  border: 6px solid #2F3C7E;
+  box-shadow: 0 0 6px 5px #d495fe,
+  0 0 6px 5px #d495fe,
+  0 0 6px 5px #d495fe,
+  0 0 10px 5px #d495fe;
+  width: 15%;
+  height: 15%;
+  top: 30%;
+  left: 13%;
+  border-radius: 5px;
+  font-size: 150%;
+  text-shadow:
+  0 0 7px #d495fe,
+  0 0 10px #d495fe,
+  0 0 21px #d495fe,
+  0 0 42px #d495fe,
+  0 0 82px #d495fe,
+  0 0 92px #d495fe,
+  0 0 102px #d495fe,
+  0 0 151px #d495fe;
+  font-weight: 700;
+}
+
+.recomended {
+  position: relative;
+   background-color: #FBEAEB;
+  color: #2F3C7E;
+  border: 6px solid #2F3C7E;
+  box-shadow: 0 0 6px 5px #d495fe,
+  0 0 6px 5px #d495fe,
+  0 0 6px 5px #d495fe,
+  0 0 10px 5px #d495fe;
+  width: 15%;
+  height: 15%;
+  top: 30%;
+  left: 26%;
+  border-radius: 5px;
+  font-size: 150%;
+  text-shadow:
+  0 0 7px #d495fe,
+  0 0 10px #d495fe,
+  0 0 21px #d495fe,
+  0 0 42px #d495fe,
+  0 0 82px #d495fe,
+  0 0 92px #d495fe,
+  0 0 102px #d495fe,
+  0 0 151px #d495fe;
+  font-weight: 700;
+}
+
+.browse {
+  position: relative;
+  background-color: #FBEAEB;
+  color: #2F3C7E;
+  border: 6px solid #2F3C7E;
+  box-shadow: 0 0 6px 5px #d495fe,
+  0 0 6px 5px #d495fe,
+  0 0 6px 5px #d495fe,
+  0 0 10px 5px #d495fe;
+  width: 15%;
+  height: 15%;
+  top: 30%;
+  left: 39%;
+  border-radius: 5px;
+  font-size: 150%;
+  text-shadow:
+  0 0 7px #d495fe,
+  0 0 10px #d495fe,
+  0 0 21px #d495fe,
+  0 0 42px #d495fe,
+  0 0 82px #d495fe,
+  0 0 92px #d495fe,
+  0 0 102px #d495fe,
+  0 0 151px #d495fe;
+  font-weight: 700;
+}
+
+h2 {
+  position: relative;
+  font-size: 200%;
+  text-shadow:
+  0 0 7px #d495fe,
+  0 0 10px #d495fe,
+  0 0 21px #d495fe,
+  0 0 42px #d495fe,
+  0 0 82px #d495fe,
+  0 0 92px #d495fe,
+  0 0 102px #d495fe,
+  0 0 151px #d495fe;
+  color: #2F3C7E;
+  left: 45%;
+  top: 45%;
+}
+
+.home {
+  line-height: 12px;
+  width: 5%;
+  height: 5%;
+  font-size: 8px;
+  margin-top: 1px;
+  margin-left: 2px;
+  position: absolute;
+  top: 5;
+  left: 5;
+  font-size: 110%;
+  text-align: center;
+  background-color: #FBEAEB;
+  border-radius: 25%;
+  border: 5px solid #2F3C7E;
+  color: #2F3C7E;
+  font-weight: 700;
+  text-shadow:
+  0 0 7px #d495fe,
+  0 0 10px #d495fe,
+  0 0 21px #d495fe,
+  0 0 42px #d495fe,
+  0 0 82px #d495fe,
+  0 0 92px #d495fe,
+  0 0 102px #d495fe,
+  0 0 151px #d495fe;
+ }
